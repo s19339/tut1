@@ -26,7 +26,6 @@ namespace Tutorial1
                     Console.WriteLine(emailAddress.ToString());
                 }
 
-                hey
             }
             Console.ReadKey();
         }
